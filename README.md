@@ -38,6 +38,6 @@
 ## 🐍 3D Contribution Graph
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph">
 </p>
 
