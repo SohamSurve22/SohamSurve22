@@ -41,8 +41,7 @@
   <img src="profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph">
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SohamSurve22&limit=5&theme=dark&combine_all_yearly_contributions=true)
